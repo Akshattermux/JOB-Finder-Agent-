@@ -1,0 +1,72 @@
+candidate:
+  full_name: "Akshat Sharma"
+  email: "akshatsharma5645@gmail.com"
+  phone: "+91 8979995507"
+  location: "Dehradun, Uttarakhand, India"
+  target_locations: ["Dehradun", "Gurugram", "Delhi NCR", "Uttarakhand", "Remote", "India"]
+  linkedin: "https://www.linkedin.com/in/akshat-sharma-2a284a249/"
+  github: "https://github.com/Akshattermux"
+  portfolio: "https://akshat-sharma-vats.vercel.app/"
+  friendsbook: "https://friendsbook.co.in"
+  years_experience: 1
+
+
+resume_path: "Akshat_Sharma_CV.pdf"  # Primary CV PDF
+
+
+target_roles:
+  - "Full Stack Developer"
+  - "React Native Developer"
+  - "Python Developer"
+  - "FastAPI / Backend Engineer"
+  - "AI Integration Engineer"
+  - "Software Engineer"
+
+decision_rules:
+  min_score_threshold: 65
+  auto_apply_threshold: 75
+  preferred_work_modes: ["Remote", "Hybrid", "On-site"]
+  excluded_keywords:
+    - "Unpaid"
+    - "Volunteer"
+    - "Commission Only"
+
+top_projects:
+  - title: "FriendsBook — Social Networking Platform"
+    tech_stack: ["React Native", "FastAPI", "MongoDB", "AWS", "Socket.IO", "JWT", "Nginx", "Oracle Cloud"]
+    description: "Designed, built, and shipped a full-featured live social networking platform from scratch to Google Play Store (friendsbook.co.in | com.friendsbook.auth). Engineered real-time messaging, JWT auth, and cost-zero Oracle Cloud ARM infrastructure migration."
+  - title: "Axionik (Startup Agency)"
+    tech_stack: ["React Native", "Node.js", "FastAPI", "MongoDB", "PostgreSQL"]
+    description: "Founder & CEO running a dual-venture app development agency. Onboarded clients, scoped deliverables, and delivered React Native + Node.js/FastAPI apps as sole technical lead."
+  - title: "ChessMaster & PDF AIO Mobile Apps"
+    tech_stack: ["React Native", "JavaScript", "Mobile Development"]
+    description: "Developed and published ChessMaster on Google Play Store featuring chess rules and AI opponent. Built PDF AIO document utility app for merging, splitting, and compressing PDFs."
+  - title: "EMO-Inspired AI Robot"
+    tech_stack: ["ESP32", "Arduino", "C++", "IoT", "OpenCV"]
+    description: "Built an ESP32-based AI robot with voice command recognition, OLED facial animations, and obstacle detection for real-time autonomous interaction."
+
+skills:
+  languages: ["Python", "JavaScript", "C++", "PHP", "C", "Bash", "HTML5", "CSS3"]
+  frontend: ["React.js", "React Native", "Bootstrap", "TailwindCSS"]
+  backend: ["Node.js", "FastAPI", "Express.js", "REST APIs", "Socket.IO", "JWT"]
+  databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"]
+  cloud_devops: ["AWS (EC2, S3)", "Oracle Cloud", "Nginx", "Git", "GitHub", "Linux"]
+  ai_ml_iot: ["OpenCV", "Scikit-learn", "NumPy", "Pandas", "ESP32", "Arduino"]
+
+experience_summary: |
+  Founder & Full-Stack Developer with a live, production-grade social network on the Google Play Store (friendsbook.co.in)
+  and a BCA degree (CGPA 7.74 | Sem VI SGPA 9.0) from Maa Shakumbhari University. Built and shipped real-world products
+  end-to-end — mobile apps, REST APIs, real-time Socket.IO systems, and AWS/Oracle Cloud infrastructure — entirely self-directed.
+
+education:
+  degree: "Bachelor of Computer Applications (BCA)"
+  institution: "Maa Shakumbhari University, Saharanpur"
+  graduation_year: 2026
+  cgpa: "7.74 (Sem VI SGPA: 9.0)"
+
+answers_preset:
+  sponsorship: "No, I am authorized to work and do not require visa sponsorship."
+  notice_period: "Immediate / 2 weeks"
+  salary_expectation: "Competitive / Market Rate"
+  work_mode: "Remote, Hybrid, or On-site"
+  relocation: "Yes, open to relocation for the right opportunity."
